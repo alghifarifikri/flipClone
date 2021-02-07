@@ -6,7 +6,7 @@
   </span>
 </p>
 
-## Pendahulian
+## Pendahuluan
 
 [![React Native](https://img.shields.io/badge/react%20native-v0.63.4-blue)](https://facebook.github.io/react-native/)
 
