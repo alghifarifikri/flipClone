@@ -2,7 +2,7 @@
 
 <p align='center'>
   <span>
-      <image width="300" src="./src/img/flip.png" />
+      <image width="300" src="./screenshot/flip.png" />
   </span>
 </p>
 
@@ -39,62 +39,62 @@ Download aplikasi [`disini`](https://drive.google.com/file/d/1lcZiSH7rRgy3m2dc9a
 1. Splash Screen
 <p align='center'>
   <span>
-      <image width="300" src="./src/img/1.jpg" />
+      <image width="300" src="./screenshot/1.jpg" />
   </span>
 </p>
 
 2. List Transaksi
 <p align='center'>
   <span>
-      <image width="300" src="./src/img/2.jpg" />
+      <image width="300" src="./screenshot/2.jpg" />
   </span>
 </p>
 
 3. Modal Sorting
 <p align='center'>
   <span>
-      <image width="300" src="./src/img/3.jpg" />
+      <image width="300" src="./screenshot/3.jpg" />
   </span>
 </p>
 
 4. Sorting Sorting
 <p align='center'>
   <span>
-      <image width="300" src="./src/img/4.jpg" />
-      <image width="300" src="./src/img/5.jpg" />
-      <image width="300" src="./src/img/6.jpg" />
-      <image width="300" src="./src/img/7.jpg" />
+      <image width="300" src="./screenshot/4.jpg" />
+      <image width="300" src="./screenshot/5.jpg" />
+      <image width="300" src="./screenshot/6.jpg" />
+      <image width="300" src="./screenshot/7.jpg" />
   </span>
 </p>
 
 5. Refresh
 <p align='center'>
   <span>
-      <image width="300" src="./src/img/8.jpg" />
+      <image width="300" src="./screenshot/8.jpg" />
   </span>
 </p>
 
 6. Search
 <p align='center'>
   <span>
-      <image width="300" src="./src/img/9.jpg" />
-      <image width="300" src="./src/img/10.jpg" />
-      <image width="300" src="./src/img/11.jpg" />
-      <image width="300" src="./src/img/12.jpg" />
+      <image width="300" src="./screenshot/9.jpg" />
+      <image width="300" src="./screenshot/10.jpg" />
+      <image width="300" src="./screenshot/11.jpg" />
+      <image width="300" src="./screenshot/12.jpg" />
   </span>
 </p>
 
 7. Detail Transaksi
 <p align='center'>
   <span>
-      <image width="300" src="./src/img/13.jpg" />
+      <image width="300" src="./screenshot/13.jpg" />
   </span>
 </p>
 
 8. Konfirmasi Keluar
 <p align='center'>
   <span>
-      <image width="300" src="./src/img/14.jpg" />
+      <image width="300" src="./screenshot/14.jpg" />
   </span>
 </p>
 
