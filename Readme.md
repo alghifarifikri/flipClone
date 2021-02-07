@@ -30,9 +30,9 @@
 4. Ketik `react-native run-android`
 6. Ketik `react-native start` or `yarn start`
 
-<!-- ## Download the APK
+## DOWNLOAD APLIKASI
 
-You can Download the APK [`here`](https://drive.google.com/file/d/1tAi9WLwsCCy3PBT7JVa3nqAsGPWrnWjR/view?usp=sharing) -->
+Download aplikasi [`disini`](https://drive.google.com/file/d/1lcZiSH7rRgy3m2dc9a4dxlUIekMjSPRI/view?usp=sharing)
 
 ## Screenshot
 
