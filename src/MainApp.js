@@ -5,7 +5,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 import React from 'react';
 import Home from './Screen/Home';
 import Detail from './Screen/Detail';
-import SplashScreen from './Screen/SplashScreen';
+import SplashScreens from './Screen/SplashScreen';
 
 const Stack = createStackNavigator();
 
@@ -16,7 +16,7 @@ function MainApp() {
         screenOptions={{
           headerShown: false,
         }}>
-        <Stack.Screen name="Splash" component={SplashScreen} />
+        <Stack.Screen name="Splash" component={SplashScreens} />
         <Stack.Screen name="Home" component={Home} />
         <Stack.Screen name="Detail" component={Detail} />
       </Stack.Navigator>

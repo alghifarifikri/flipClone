@@ -12,14 +12,13 @@ import {
   BackHandler,
   Alert,
 } from 'react-native';
-import {withNavigation} from 'react-navigation';
 import {ParsedDate} from '../Utils/ParseDate';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import Octicons from 'react-native-vector-icons/Octicons';
 import {FetchApi} from '../Utils/FetchApi';
 import {Search} from '../Utils/Search';
 
-class Main extends Component {
+class Home extends Component {
   constructor(props) {
     super(props);
 
@@ -408,7 +407,5 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   },
 });
-
-const Home = withNavigation(Main);
 
 export default Home;

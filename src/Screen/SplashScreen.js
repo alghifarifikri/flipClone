@@ -2,7 +2,6 @@
 import React from 'react';
 import {StyleSheet, View, ImageBackground} from 'react-native';
 import image from '../Img/flip.png';
-import {withNavigation} from 'react-navigation';
 
 const styles = StyleSheet.create({
   root: {
@@ -90,6 +89,4 @@ class SplashScreens extends React.Component {
   }
 }
 
-const SplashScreen = withNavigation(SplashScreens);
-
-export default SplashScreen;
+export default SplashScreens;
